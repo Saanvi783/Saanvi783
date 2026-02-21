@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/saanvi-dixit">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:saanvidix312@gmail.com">
+  <a href="mailto:saanvidix13@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
